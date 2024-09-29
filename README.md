@@ -11,7 +11,9 @@
   
 ## My skills , tools , technologies and ...
 
+![python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-steelblue.svg?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/c++-steelblue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Contact me from:
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aphysics.nerd@gmail.com)](mailto:aphysics.nerd@gmail.com)
