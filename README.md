@@ -10,7 +10,8 @@
 - 🛰️ I am looking for a job opportunity in IPM, NASA, CERN, CalTech , Bell labs , ...
   
 ## My skills , tools , technologies and ...
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,flutter,dart,flask,go,selenium,sqlite,mysql,mongodb,bash,debian,ubuntu,kali,arch,linux,html,css,sass,bootstrap,perl,vim,emacs,pycharm,webstorm,vscode,sublime,qt,arduino,astro,fastapi,idea,windows&theme=dark)](https://skillicons.dev)
+
+![R](https://img.shields.io/badge/R-steelblue.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Contact me from:
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aphysics.nerd@gmail.com)](mailto:aphysics.nerd@gmail.com)
