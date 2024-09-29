@@ -9,11 +9,15 @@
   - and many other things about mathematics , physics and astronomy :)
 - 🛰️ I am looking for a job opportunity in IPM, NASA, CERN, CalTech , Bell labs , ...
   
-## My skills , tools , technologies and ...
+## Programming languages
 
 ![python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-steelblue.svg?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/c++-steelblue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Julia](https://img.shields.io/badge/julia-darkgreen.svg?style=for-the-badge&logo=julia&logoColor=white)
+![JS](https://img.shields.io/badge/JS-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-aqua.svg?style=for-the-badge&logo=go&logoColor=black)
+![flutter](https://img.shields.io/badge/Flutter-dodgerblue.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Contact me from:
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aphysics.nerd@gmail.com)](mailto:aphysics.nerd@gmail.com)
