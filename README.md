@@ -1,13 +1,12 @@
 ## Hi there, I'm Yassr Hossein-zadeh
 I am a physics student who likes to work between programming and physics
 -🔥 I love everything about Math, Physics and computers!
-- 🌞☀️⚡
 - 🌱 I’m currently learning :
   - Calculus, Mathematical logic and Combinatorics🧮
   - Astrophysics⭐
   - Mechanics and Celestial mechanics🪐
   - data analysis, Machine learning and Artificial Intelligence 🧠
-- 🛰️ I am looking for a job opportunity in IPM, NASA, CERN, CalTech or Bell labs ...
+- I am looking for a job opportunity in IPM, NASA, CERN, CalTech or Bell labs ...🛰️
   
 ### 👨‍💻 Programming languages
 
