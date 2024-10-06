@@ -33,8 +33,7 @@ I am a physics student who likes to work between programming and physics
 ![QT](https://img.shields.io/badge/Qt-green.svg?style=for-the-badge&logo=qt&logoColor=white) 
 ![django](https://img.shields.io/badge/django-darkgreen.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![mySQL](https://img.shields.io/badge/MySQL-lightgray.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![jupyter](https://img.shields.io/badge/Jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
-![vscode](https://img.shields.io/badge/vscode-orange.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![jupyter](https://img.shields.io/badge/Jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 
 ### Contact me from:
