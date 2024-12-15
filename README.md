@@ -27,13 +27,14 @@ I am a physics student who likes to work between programming and physics
 ![tensor](https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/scrapy-darkgreen.svg?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-oliv.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-salmon.svg?style=for-the-badge&logo=mathplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-salmon.svg?style=for-the-badge&logo=mathplot&logoColor=white)
 ![Astropy](https://img.shields.io/badge/astropy-tomato.svg?style=for-the-badge&logo=astroPy&logoColor=white) 
 ![sympy](https://img.shields.io/badge/SymPy-gray.svg?style=for-the-badge&logo=sympy&logoColor=white) 
 ![QT](https://img.shields.io/badge/Qt-green.svg?style=for-the-badge&logo=qt&logoColor=white) 
 ![django](https://img.shields.io/badge/django-darkgreen.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![mySQL](https://img.shields.io/badge/MySQL-lightgray.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![jupyter](https://img.shields.io/badge/Jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Electron](https://img.shields.io/badge/electron-%23013243.svg?style=for-the-badge&logo=electron&logoColor=white) 
+![Astro](https://img.shields.io/badge/Astro-purple.svg?style=for-the-badge&logo=astro&logoColor=white) 
 
 
 ### Contact me from:
