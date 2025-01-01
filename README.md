@@ -16,7 +16,7 @@ I am a physics student who likes to work between programming and physics
 ![JS](https://img.shields.io/badge/JS-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-aqua.svg?style=for-the-badge&logo=go&logoColor=black)
-![flutter](https://img.shields.io/badge/Flutter-dodgerblue.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-dodgerblue.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🔨 Technologies and Tools
 
