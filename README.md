@@ -17,6 +17,8 @@ I am a physics student who likes to work between programming and physics
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-aqua.svg?style=for-the-badge&logo=go&logoColor=black)
 ![LATEX](https://img.shields.io/badge/Latex-black.svg?style=for-the-badge&logo=latex&logoColor=white)
+![MATLAB](https://img.shields.io/badge/Matlab-red.svg?style=for-the-badge&logo=matlab&logoColor=white)
+
 
 ### 🔨 Technologies and Tools
 
