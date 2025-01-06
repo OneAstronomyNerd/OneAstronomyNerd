@@ -2,7 +2,7 @@
 I am a physics student who likes to work between programming and physics
 - 🔥 I love everything about Math, Physics and computers!
 - 🌱 I’m currently learning :
-  - Calculus, Mathematical logic and Combinatorics🧮
+  - Calculus
   - Astrophysics⭐
   - Mechanics and Celestial mechanics🪐
   - data analysis, Machine learning and Artificial Intelligence 🧠
